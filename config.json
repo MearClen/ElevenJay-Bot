@@ -1,0 +1,9 @@
+{
+  "prefix": "YOUR PREFIX",
+  "default_prefix": "YOUR PREFIX",
+  "token": "YOUR BOT TOKEN",
+     
+ "YOUTUBE_API_KEY": "AIzaSyDkLkopR0MPVG5mFu7KDZxv4isk51AQQmM",
+    "QUEUE_LIMIT": 0,
+    "COLOR": "00FFFF"
+}
